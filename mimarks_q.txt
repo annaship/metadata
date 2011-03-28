@@ -1,0 +1,112 @@
+1)
+water	tot_phosp
+wastewater/sludge	tot_phosphate
+
+2)
+host-associated		body_site	body	site	name
+human-associated	body_site	FMA
+human-gut					body_site	FMA
+human-oral				body_site	FMA
+human-skin				body_site	FMA
+
+Questions about our metadata:
+1) http://physics.nist.gov/cuu/Units/units.html
+SI base units
+Base quantity							Name			Symbol
+length										meter			m
+mass											kilogram  kg
+time											second		s
+electric current					ampere		A
+thermodynamic temperature kelvin		K
+amount of substance				mole			mol
+luminous intensity				candela		cd
+
+we need a table: Conventional Unit -	Conversion Factor -	SI Unit
+amount-of-substance concentration -> mole per cubic meter (mol/m3)
+mass concentration 								-> kilogram per cubic meter
+
+litre vs. liter: "British spellings centre, goitre, kilometre, litre, lustre, mitre, nitre, reconnoitre, saltpetre, spectre, theatre, titre, calibre, fibre, sabre, and sombre all have -er in American spelling." http://en.wikipedia.org/wiki/American_and_British_English_spelling_differences#-re.2C_-er
+
+2) micromole vs. nanomole vs. picomole
+nanomolePerCubicDecimeterPerHour vs. picomolePerCubicMeterPerHour
+and other with prefixes (bar/decibar, centi-/milli-/deci-/meter/...)
+
+3)
+CellsPerLiter
+cellPerLiter
+cellPerMilliliter
+cellsPerLiter
+cellsPerMillileter
+cellsPerMilliliter
+
+4) 
+micromolePerKilogram
+micromolesPerKilogram
+
+5) pressure -> pascal	Pa	N/m2	m-1·kg·s-2
+db
+decibar
+hPa
+
+6) SI for time -> Second
+
+7) density -> kilogram per cubic meter (kg/m³) 
+KilogramsPerCubicMeter
+kilogramPerCubicMeter
+kilogramPerMeterCubed
+
+
+8) wind speed -> m/s
+The knot is a non-SI unit accepted for use with the International System of Units (SI).
+
+9) 
+meterPerLiter
+metersPerLiter
+
+10) salinity: http://www.oceanographers.net/forums/showthread.php?902-Salinity-Does-Not-Have-Physical-Units
+PSU
+PracticalSalinityUnit
+practicalSalinityScale1978
+practicalSalinityUnits
+pss78
+psu
+
+11) production?
+microMolesCarbonPerLiterPerDay
+microgramCarbonPerLiterPerHour
+micromoleCarbonPerCubicDecimeterPerDay
+micromoleCarbonPerCubicMeterPerDay
+micromolePerMinutePerGramCarbon
+milliMolesCarbonPerMeterSquaredPerDay
+milligramCarbonPerMeterPerDay
+milligramCarbonPerSquareMeter
+milligramCarbonPerSquareMeterPerDay
+
+12) activity -> microgramm per liter per hour (mcg/L/H)
+http://www.questdiagnostics.com/hcp/intguide/SI_Units.pdf
+micromolePerCubicCentimeterPerDay
+nanomolePerCubicDecimeterPerHour
+picomolePerCubicMeterPerHour
+picomolePerLiterPerHour
+picoMolesPerLiterPerHour
+
+13) amount-of-substance concentration ->	mole per cubic meter (mol/m3)
+microMoleCarbonPerLiter
+microMolesCarbonPerLiter
+picoMolePerLiter
+microMolePerLiter
+microMolesPerLiter
+microgramPerLiter
+microgramsPerLiter
+milligramPerKL
+milligramPerLiter
+milligramsPerLiter
+milliliterPerLiter
+
+14) 
+percentage
+percent
+
+
+15) conductivity -> siemens per metre	(S/m) ===	m−3·kg−1·s3·A2
+microseimenPerCentimer
